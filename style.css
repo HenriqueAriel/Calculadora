@@ -1,0 +1,17 @@
+.estilo{
+    border-style: solid;
+    width: fit-content;
+    height: fit-content;
+    margin-top: 30px;
+    margin: 30px;
+    padding: 30px;
+    background-color: antiquewhite;
+}
+
+.botoes{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#resultado{
+    font-size: x-large;
+}
